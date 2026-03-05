@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front-end-spring2026/static/css/main.deb05318.css",
+    "main.js": "/front-end-spring2026/static/js/main.b61e1b55.js",
+    "index.html": "/front-end-spring2026/index.html",
+    "main.deb05318.css.map": "/front-end-spring2026/static/css/main.deb05318.css.map",
+    "main.b61e1b55.js.map": "/front-end-spring2026/static/js/main.b61e1b55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb05318.css",
+    "static/js/main.b61e1b55.js"
+  ]
+}
