@@ -1,4 +1,5 @@
 import "../css/Header.css";
+import Navigation from "../css/Navigation.css";
 
 const Header = () => {
     return (
